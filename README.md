@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-repo/flask-revenue-api.git
+    git clone https://github.com/Alex-Borisov92/flask-revenue-api.git
     ```
 
 2. Установите зависимости:
